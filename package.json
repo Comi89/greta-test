@@ -1,0 +1,22 @@
+{
+  "name": "greta-assignment",
+  "version": "1.0.0",
+  "description": "Greta assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "http-server src -p 2323 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Comi89/greta-test.git"
+  },
+  "author": "mgrubjesic89@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Comi89/greta-test/issues"
+  },
+  "homepage": "https://github.com/Comi89/greta-test#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
