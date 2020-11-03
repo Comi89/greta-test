@@ -2,3 +2,10 @@
   display: flex;
   justify-content: center;
 }
+
+.air_pollution-section {
+  display: flex;
+  justify-content: center;
+  background: #eee;
+  padding: 20px;
+}
